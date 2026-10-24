@@ -35,6 +35,7 @@
 - [⚖️ Architectural Decision Matrix (SaaS vs. Self-Hosted)](#️-architectural-decision-matrix-saas-vs-self-hosted)
 - [🎯 Real-World Use Cases](#-real-world-use-cases)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Community](#-support--community)
 - [⭐ Star History](#-star-history)
 - [📜 Disclaimer](#-disclaimer)
 
@@ -151,6 +152,26 @@ Contributions are enthusiastically welcomed!
    - For SaaS: include specific starting prices, specific free tier limits, and company size data.
    - For Open-Source: verify the project is actively maintained and add the standard star badge linking to `/stargazers`.
 4. **Submit a Pull Request** with a concise description of the addition.
+
+---
+
+## 💖 Support & Community
+
+A heartfelt **thank you** to everyone exploring, using, and contributing to this ecosystem! If you find this directory valuable for your research or development, here is how you can support the initiative:
+
+- ⭐ **Star the Repository**: Show your appreciation and help more builders discover visual search engines.
+- 🍴 **Fork & Share**: Fork this repo to track your favorite tools, and share it across your team, tech communities, and social media.
+- ☕ **Buy Me a Coffee / Sponsor**: If this curation saved you engineering hours or helped accelerate your project, consider buying me a coffee or becoming a sponsor via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
 
 ---
 
